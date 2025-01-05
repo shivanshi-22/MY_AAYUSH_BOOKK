@@ -1,0 +1,36 @@
+.app-container {
+  
+}
+
+body {
+  background-color: #fff;
+  background-size: cover; /* Scale the image to cover the entire area */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center; /* Center the image */
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+.card {
+  max-width: 90%;
+  width: 100%;
+  border-radius: 10px;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background: #4f94d4;
+  border: none;
+  
+}
+
+.btn-primary:hover {
+  background: #3679b5;
+}
+
