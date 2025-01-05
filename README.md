@@ -1,4 +1,4 @@
-# 🏥 MediSync App
+# 🏥 MY AAYUSH BOOK
 
 ## 🌟 Overview
 The MediSync App is a React-based Android application built with Capacitor. It provides a comprehensive solution for managing healthcare services tailored to specific user roles: nurses, doctors, pharmacists, and patients. The app includes essential features like a pill reminder, notifications center, and a shopping cart for health-related products, offering an all-in-one platform for efficient healthcare management.
